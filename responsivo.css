@@ -1,0 +1,186 @@
+@media screen  and (min-width: 0px) and (max-width: 768px){
+    .logo{
+        margin: 0%;
+        justify-content: center;
+    }
+
+    .menu{
+        display: none;
+    }
+
+    .titulo.principal{
+        font-size: 40px;
+    }
+
+    .titulo.semiprincipal{
+        margin-left: 10%;
+    }
+
+    header{
+        flex-flow: column;
+        height: 600px;
+    }
+
+    .img.header img{
+        display: none;
+    }
+
+    .headline{
+        width: 100%;
+        text-align: center;
+        padding-top: 100px;
+        margin: 0%;
+        margin-right: 20%;
+    }
+
+    button.headline{
+        align-self: center;
+    }
+
+    section.container{
+        flex-flow: column;
+    }
+
+    div.cowgirl,.cactus,.cowboyd{
+        text-align: center;
+    }
+
+    img{
+        display: none;
+    }
+
+    p{
+        font-size: 20px;
+        padding: 5px;
+    }
+
+    .cowgirlh2,.cowboydh2,.cactush2{
+        font-size: 25px;
+    }
+}
+
+@media screen  and (min-width: 749px) and (max-width: 860px){
+    .titulo.semiprincipal{
+        margin-left: 15%;
+    }
+}
+
+@media screen  and (min-width: 769px) and (max-width: 992px){
+    .logo{
+        margin-left: 2%;
+    }
+
+    .menu{
+        margin-right: 0;
+    }
+
+    .menu-link{
+    padding: 10px;
+    margin-right: 4%;
+    }
+
+    .titulo.principal{
+        font-size: 40px;
+    }
+
+    header{
+        flex-flow: column;
+        height: 600px;
+    }
+
+    .img.header img{
+        display: none;
+    }
+
+    .headline{
+        width: 100%;
+        text-align: center;
+        padding-top: 100px;
+        margin: 0%;
+        margin-right: 20%;
+    }
+
+    button.headline{
+        align-self: center;
+    }
+
+    section.container{
+        flex-flow: column;
+    }
+
+    div.cowgirl,.cactus,.cowboyd{
+        text-align: center;
+    }
+
+    p{
+        font-size: 20px;
+        padding: 5px;
+    }
+
+    .cowgirlh2,.cowboydh2,.cactush2{
+        font-size: 25px;
+    }
+}
+
+@media screen  and (min-width: 993px) and (max-width: 1040px){
+    .chance{
+        padding-bottom: 20px;
+    }
+}
+
+@media screen  and (min-width: 993px) and (max-width: 1250px){
+    .logo{
+        margin-left: 2%;
+    }
+
+    .menu{
+        margin-right: 0;
+    }
+
+    .menu-link{
+    padding: 10px;
+    margin-right: 4%;
+    }
+
+    .titulo.principal{
+        font-size: 40px;
+    }
+
+    header{
+        height: 600px;
+    }
+
+    .img.header{
+        padding: 0%;
+        margin: 0;
+    }
+
+    .headline{
+        width: 100%;
+        text-align: center;
+        padding-top: 100px;
+        margin: 0%;
+        margin-right: 20%;
+    }
+
+    button.headline{
+        align-self: center;
+    }
+
+    section.container{
+        flex-flow: column;
+    }
+
+    div.cowgirl,.cowboyd,.cactus{
+        text-align: center;
+    }
+
+    p{
+        font-size: 30px;
+        padding: 5px;
+    }
+
+    .cowgirlh2,.cowboydh2,.cactush2{
+        font-size: 36px;
+    }
+}
